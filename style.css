@@ -19,5 +19,10 @@ hr {
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
  h1{
-     font-size: 72;
+     font-size : 72px;
  }
+ h1,
+ h2{
+     font-family:"Oswald", "Helvetica Neue";
+ }
+ 
