@@ -33,4 +33,6 @@ hr {
      font-family: "Crimson Text", "Arial";
      line-height: 1.5;
  }
- 
+ code{
+     color: #CE234C;
+ }
