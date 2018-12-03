@@ -48,13 +48,13 @@ hr {
  }
  
  a:visited {
-     color: black;
+     color:black;
  }
  
  a:hover {
      color:red;
  }
  
-a:click {
+a:active {
     color:blue;
 }
