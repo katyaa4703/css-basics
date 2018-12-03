@@ -37,3 +37,24 @@ hr {
      color: #CE234C;
      background-color:lightgray;
  }
+ 
+ #font-practice{
+     font-style: italic;
+     color:green;
+ }
+ 
+ a:link {
+     color:green;
+ }
+ 
+ a:visited {
+     color: black;
+ }
+ 
+ a:hover {
+     color:red;
+ }
+ 
+a:click {
+    color:blue;
+}
